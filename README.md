@@ -1,0 +1,1 @@
+This dataset is extracted from a modified KDD dataset which is available at https://github.com/InitRoot/NSLKDD-Dataset. This dataset is used by [29]	F. H. Botes, L. Leenen, and R. De La Harpe, “Ant colony induced decision trees for intrusion detection,” Eur. Conf. Inf. Warf. Secur. ECCWS. June, pp. 53–62, 2017.
